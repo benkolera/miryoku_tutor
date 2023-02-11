@@ -1,6 +1,6 @@
 # TypingTutor
 
-<img width="437" alt="Screenshot 2023-02-11 at 8 28 57 pm" src="https://user-images.githubusercontent.com/159197/218276427-9fd26222-4931-4cf1-8927-b3b68fb9a50b.png">
+![image](https://user-images.githubusercontent.com/159197/218276466-c6077749-97b7-4e62-a84c-c4735f5a3122.png)
 
 To start your Phoenix server:
 
